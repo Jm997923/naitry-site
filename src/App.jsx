@@ -28,6 +28,8 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+      <p>This is a test of no end at alllllllllllllllllllllll...</p> 
+      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima animi quisquam sequi impedit labore fuga error, nostrum magnam deserunt praesentium quas nesciunt deleniti alias beatae sit harum itaque excepturi voluptatibus.</p>
     </>
   )
 }
