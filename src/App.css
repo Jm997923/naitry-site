@@ -1,7 +1,5 @@
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
+  margin: 0;
   text-align: center;
 }
 
@@ -39,4 +37,20 @@
 
 .read-the-docs {
   color: #888;
+}
+
+.navbar {
+  height: 5rem;
+  width: 100vw;
+  font-size: 1.5em;
+  background-color: #0e4426;
+  align-content: center;
+}
+
+.navbar a {
+  color: #2c955b;
+}
+
+.navbar a:hover {
+  color: #74eeab;
 }
